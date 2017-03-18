@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:title="Name"
+        android:key="name"
+        android:summary="Enter Your Name">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:title="Date"
+        android:key="date"
+        android:summary="Enter Date Of Birth">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:title="Country"
+        android:key="country"
+        android:summary="Enter Country">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:title="City"
+        android:key="city"
+        android:summary="Enter City">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="cityId"
+        android:visibility="invisible">
+    </EditTextPreference>
+</PreferenceScreen>

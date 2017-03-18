@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Weather text sizes -->
+    <dimen name="weatherMainTemp">62sp</dimen>
+    <dimen name="weatherDay">20sp</dimen>
+    <dimen name="weatherLowHighTemp">20sp</dimen>
+    <dimen name="weatherIntervals">20sp</dimen>
+    <dimen name="weatherCity">26sp</dimen>
+
+    <!-- Weather item sizes -->
+    <dimen name="weatherDayWitdh">95dp</dimen>
+</resources>
